@@ -212,15 +212,8 @@ b.max-bold{ font-weight: 700; }
 
 .portfolio-section .p-item a{ display: inline-block; position: relative; }
 
-.portfolio-section .p-item2{ width: 50%; padding: 0 7.5px 0px; margin-top: 15px; overflow:hidden; padding-bottom:56.25%; position:relative; height:0;}
+.portfolio-section .p-item2{ width: 50%; padding: 0 7.5px 0px; margin-top: 15px;}
 
-.p-item2 iframe{
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-}
 
 /* ---------------------------------
 7. EDUCATION SECTION
